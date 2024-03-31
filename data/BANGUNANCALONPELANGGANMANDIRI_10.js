@@ -1,0 +1,1 @@
+var json_BANGUNANCALONPELANGGANMANDIRI_10 = {"type":"FeatureCollection","name":"BANGUNANCALONPELANGGANMANDIRI_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
